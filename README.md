@@ -1,2 +1,1 @@
-#Jogo_da_velha
-jogo da velha feito em python com orientação a  objetos
+Jogo da velha feito em Python com Orientação a Objetos
